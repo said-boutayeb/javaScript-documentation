@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "msedge",
+      "name": "4-Prettier.log",
+      "request": "launch",
+      "url": "4-Prettier.log"
+    }
+  ]
+}
